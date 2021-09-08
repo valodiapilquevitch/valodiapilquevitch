@@ -1,8 +1,6 @@
 
 ### Hello everyone 👋
 
-**valodiapilquevitch/valodiapilquevitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on Instituto Butantan
 - 🌱 I’m currently learning Technology , innovation and digital transformation
 
