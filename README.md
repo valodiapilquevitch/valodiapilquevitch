@@ -4,19 +4,7 @@
 - 🔭 I’m currently working on Instituto Butantan
 - 🌱 I’m currently learning Technology , innovation and digital transformation
 
-<br />
 
-<div>
-  
-  <a href="">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=valodiapilquevitch&theme=merko&layout=compact&show_icons=true" style="max-width:100%;"/>
-</center></a>
-
-<a href="">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valodiapilquevitch&theme=merko&layout=compact&show_icons=true" style="max-width:100%;" />
-</center></a>
-
-</div>
 
 <br />
 
