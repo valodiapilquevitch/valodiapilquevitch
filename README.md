@@ -75,9 +75,8 @@ Olá! Sou Valodia Pilquevitch, um apaixonado Coordenador de Desenvolvimento de S
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Akamai](https://www.akamai.com/site/pt/images/logo/akamai-logo1.svg)
+![Akamai](https://www.akamai.com/site/pt/images/logo/akamai-logo.svg)
 
-  <img align="center" alt="" height="30" width="40" src="https://www.akamai.com/site/pt/images/logo/akamai-logo1.svg" style="max-width:100%;">
 
 
 Seja bem-vindo ao meu universo tecnológico, onde a inovação e a excelência se encontram para transformar desafios em conquistas extraordinárias! 🌐💡
