@@ -54,7 +54,7 @@ Seja bem-vindo ao meu universo tecnológico, onde a inovação e a excelência s
 **Vamos criar o futuro juntos! 🚀👨‍💻**
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valodiapilquevitch&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valodiapilquevitch)](https://github.com/anuraghazra/github-readme-stats)
 
 <div><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
