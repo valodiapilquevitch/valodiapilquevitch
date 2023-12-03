@@ -1,4 +1,5 @@
-# Valodia Pilquevitch - Coordenador de Desenvolvimento de Sistemas 🚀
+# Valodia Pilquevitch <br />
+Coordenador de Desenvolvimento de Sistemas 🚀
 
 ## Sobre Mim
 Olá! Sou Valodia Pilquevitch, um apaixonado Coordenador de Desenvolvimento de Sistemas com mais de 11 anos de experiência e especializações em Gestão e Governança de TI, Business Intelligence, Data Warehouse, Inovação e Transformação Digital. Minha jornada profissional é dedicada a liderar equipes técnicas e entregar soluções inovadoras.
