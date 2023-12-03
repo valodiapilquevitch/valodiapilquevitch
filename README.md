@@ -76,12 +76,7 @@ Olá! Sou Valodia Pilquevitch, um apaixonado Coordenador de Desenvolvimento de S
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Akamai](https://panoramaaudiovisual.com.br/wp-content/uploads/2019/01/Akamai-Technologies-Inc_Main._1.png)
-
-<p align="center">
-  <img width="200" height="200" src="https://panoramaaudiovisual.com.br/wp-content/uploads/2019/01/Akamai-Technologies-Inc_Main._1.png" alt="Logo Akamai">
-</p>
-
-<img src="https://panoramaaudiovisual.com.br/wp-content/uploads/2019/01/Akamai-Technologies-Inc_Main._1.png" alt="Logo Akamai" width="100" height="100">
+<img src="https://panoramaaudiovisual.com.br/wp-content/uploads/2019/01/Akamai-Technologies-Inc_Main._1.png" alt="Logo Akamai" width="100" height="75">
 
 
 
