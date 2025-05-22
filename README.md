@@ -1,22 +1,22 @@
 # Valodia Pilquevitch <br />
-Coordenador de Desenvolvimento de Sistemas com experiência consolidada na gestão de equipes técnicas e na coordenação de soluções digitais que otimizam eficiência e segurança.
+Coordenador de Desenvolvimento de Sistemas com experiência consolidada na gestão de equipes técnicas e na coordenação de soluções digitais que otimizam eficiência e segurança.<br /><br />
 
-Liderança em projetos inovadores, com resultados estratégicos:
+Liderança em projetos inovadores, com resultados estratégicos:<br /><br />
 
-• ButanPass: Alternativa ao adselfservice , reduzindo 90% das chamadas ao helpdesk e 80% dos custos.
-• Butansign: Plataforma de assinatura eletrônica compatível com 21 CFR Part 11, agilizando processos regulados.
-• Butansis: ERP que integrou 70+ sistemas com MFA e SSO, cortando 75% dos custos operacionais.
-• Portal de Cadastro: Alternativa ao SAP MDG, entregue em 60 dias com 70% de redução de custos.
-• SAC Estoque: CRM para materiais, eliminando customizações no SAP e reduzindo 60% dos custos.
+• ButanPass: Alternativa ao adselfservice , reduzindo 90% das chamadas ao helpdesk e 80% dos custos. <br />
+• Butansign: Plataforma de assinatura eletrônica compatível com 21 CFR Part 11, agilizando processos regulados.<br />
+• Butansis: ERP que integrou 70+ sistemas com MFA e SSO, cortando 75% dos custos operacionais.<br />
+• Portal de Cadastro: Alternativa ao SAP MDG, entregue em 60 dias com 70% de redução de custos.<br />
+• SAC Estoque: CRM para materiais, eliminando customizações no SAP e reduzindo 60% dos custos.<br /><br />
 
-Atividades:
+Atividades:<br /><br />
 
-• SAP Business Accelerator Hub, SAP Integration Suite
-• Concepção de arquiteturas escaláveis para ERPs, CRMs e sistemas regulatórios.
-• Coordenação de planejamento com metodologias ágeis (Scrum, Kanban, XP).
-• Supervisão de equipes na integração de APIs, SAP e soluções de segurança (MFA/SSO).
-• Alinhamento com stakeholders para atender metas institucionais.
-• Foco em gestão de alta performance, alinhadas aos objetivos organizacionais.
+• SAP Business Accelerator Hub, SAP Integration Suite<br />
+• Concepção de arquiteturas escaláveis para ERPs, CRMs e sistemas regulatórios.<br />
+• Coordenação de planejamento com metodologias ágeis (Scrum, Kanban, XP).<br />
+• Supervisão de equipes na integração de APIs, SAP e soluções de segurança (MFA/SSO).<br />
+• Alinhamento com stakeholders para atender metas institucionais.<br />
+• Foco em gestão de alta performance, alinhadas aos objetivos organizacionais.<br />
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
